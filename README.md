@@ -1,6 +1,11 @@
 # 💫 About Me:
 ¡Hola! Soy July Desarrollador full-stack junior ✨ | Estudiante de Ingeniería en Sistemas 💻
 
+###
+
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/a4/04/f8/a404f881d9f8b17dba75ba0b5b9d79da.gif"  />
+</div>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/Humbertø_suk#4877) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/humberto-lopez-ortega-23308a301/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:humbertoxd25@gmail.com) 
@@ -34,12 +39,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HumbertoSuk/HumbertoSuk/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HumbertoSuk/HumbertoSuk/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/a4/04/f8/a404f881d9f8b17dba75ba0b5b9d79da.gif"  />
-</div>
 
 ###
 
