@@ -7,6 +7,15 @@
   <img height="200" src="https://i.pinimg.com/originals/a4/04/f8/a404f881d9f8b17dba75ba0b5b9d79da.gif"  />
 </div>
 
+<br clear="both">
+
+<div align="center">
+  <a href="https://open.spotify.com/user/Humbertø_Suk">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Humbert%C3%B8_Suk&count=6&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/Humbertø_suk#4877) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/humberto-lopez-ortega-23308a301/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:humbertoxd25@gmail.com) 
 
