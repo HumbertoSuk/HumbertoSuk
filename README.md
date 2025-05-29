@@ -29,4 +29,23 @@
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HumbertoSuk/HumbertoSuk/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HumbertoSuk/HumbertoSuk/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HumbertoSuk/HumbertoSuk/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/a4/04/f8/a404f881d9f8b17dba75ba0b5b9d79da.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=HumbertoSuk.HumbertoSuk&left_color=darkviolet&right_color=violet"  />
+</div>
+
+###
 ![Visit Counter](https://visitcount.itsvg.in/api?id=HumbertoSuk&icon=7&color=6)
