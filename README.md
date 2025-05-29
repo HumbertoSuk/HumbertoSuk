@@ -46,6 +46,3 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=HumbertoSuk.HumbertoSuk&left_color=darkviolet&right_color=violet"  />
 </div>
-
-###
-![Visit Counter](https://visitcount.itsvg.in/api?id=HumbertoSuk&icon=7&color=6)
