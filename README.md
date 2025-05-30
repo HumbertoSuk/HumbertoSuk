@@ -1,7 +1,18 @@
 # 💫 Sobre Mí
 
-### ¡Hola Mundo enfermo y triste! 👋 Soy **Humberto López** (aka HumbertoSuk)
-#### 🚀 **Desarrollador Full-Stack Junior** | **Estudiante de Ingeniería en Sistemas** 💻 | **Apasionado por aprender** 🤖
+<h3 style="color:#A259FF">¡Hola Mundo enfermo y triste! 👋 Soy <strong>Humberto López</strong> (aka HumbertoSuk)</h3>
+
+<p style="color:#A259FF">
+🚀 <strong>Desarrollador Full-Stack Junior</strong> | <strong>Estudiante de Ingeniería en Sistemas</strong> 💻  
+  
+🎨 Apasionado por el código, el diseño visual, la estética alternativa al igual que elegante  
+
+📚 En constante aprendizaje: desde React y FastAPI hasta despliegue con Docker y Redis.  
+
+📦 Actualmente construyendo mi portafolio visual y trabajando.  
+
+💡 Me apasiona crear proyectos útiles, accesibles y bonitos, con un toque único y estilizado.  
+</p>
 
 <div align="center">
   <img height="200" src="https://i.pinimg.com/originals/a4/04/f8/a404f881d9f8b17dba75ba0b5b9d79da.gif" alt="Coding GIF" />
@@ -9,19 +20,58 @@
 
 <br clear="both">
 
+## 🎲 Fun Facts
+
+- 💅 Siempre programo mejor con música
+- 🐱 Mis compañeros de código... los gatos (＾• ω •＾)
+
 ## 🌟 **Mi Filosofía**
+
+### Me gusta crear proyectos que no solo funcionen, sino que sean legibles, mantenibles y visualmente atractivos.
+
+- ✨ **Estética y funcionalidad** deben ir de la mano.
+- 🧱 Estructuro todo bajo principios como **MVC** y **Arquitectura Limpia**.
+- 📂 Mis carpetas y controladores no son un caos: cada cosa en su lugar.
+- 📑 Creo en el poder de una buena **documentación**, incluso en proyectos personales.
+- 🧪 Valoro las **pruebas automatizadas** porque me gusta que mi código se rompa... pero conmigo, no contigo.
+- 🎨 Me gusta lo visual, desde los formularios hasta los dashboards: uso **Tailwind**, dark mode, íconos lindos y transiciones suaves.
+- 🐳 Si puedo dockerizarlo, lo dockerizo.
+- ⚡ Todo debe estar claro, rápido, bonito y con propósito.
+
 > *"Z?"*
+
+## 🎨 Estética Visual
+
+✨ Me encanta combinar estilos como:
+
+- 🌑 **Dark Mode minimalista**
+- 🦄 **Pastel/soft**
+- 🧬 **Glassmorphism + motion UI**
+- 💻 **Clean dev dashboards con diseño UX/UI profesional**
+- 🟪 **Pixel Art UI / Retro vibes:** nostalgia, identidad, y creatividad digital con alma de videojuego 🎮🕹️
+
+> Siempre con código ordenado y frontend que enamore.
 
 ---
 
 ## 🌱 Sección de Aprendizaje Actual
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+### Aprendiendo:
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Pendientes:
+
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
-**Meta 2025:** Ser freelancer...?
+## 🎯 Meta 2025: Ser freelancer ✨
 
+- 🚀 Crear **6+ proyectos** de portafolio (frontend, backend, móvil)
+- ⚛️ Dominar **React + Tailwind CSS**
+- 🐳 Desplegar apps dockerizadas con **Redis, PostgreSQL y FastAPI**
+- 🎨 Subir proyectos bonitos a GitHub
 
 ## 🎵 **Escuchando:**
 <div align="center">
@@ -40,6 +90,10 @@
 [![Email](https://img.shields.io/badge/-humbertoxd25@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:humbertoxd25@gmail.com)
 [![Spotify](https://img.shields.io/badge/-Escuchando_ahora-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/db0h7easkycwvktbojere85ej)
 
+## 💌 ¿Colaboramos?
+
+📫 **Correo:** humbertoxd25@gmail.com  
+🌐 **Portafolio (Aun sin elaborar):** [https://humbertosuk.dev](https://humbertosuk.dev)  
 
 
 # 💻 Tech Stack
@@ -48,8 +102,6 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
@@ -147,13 +199,10 @@
 ¿Te gusta mi trabajo? ¡Puedes invitarme a un café para mantenerme motivado! Cada apoyo me ayuda a seguir creando proyectos increíbles.
 
 <div align="left">
-  <a href="https://ko-fi.com/tu_usuario" target="_blank" title="¡Ko-fi!">
+  <a href="https://ko-fi.com/humberto_suk" target="_blank" title="¡Ko-fi!">
     <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="150" alt="Ko-fi" style="border-radius: 6px;"/>
   </a>
-  <a href="https://www.paypal.com/paypalme/tuusuario" target="_blank" title="PayPal">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" width="150" alt="PayPal" style="border-radius: 6px;"/>
-  </a>
-  <a href="https://www.patreon.com/tuusuario" target="_blank" title="Patreon">
+  <a href="https://www.patreon.com/c/JulySuk" target="_blank" title="Patreon">
     <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" width="150" alt="Patreon" style="border-radius: 6px;"/>
   </a>
 </div>
