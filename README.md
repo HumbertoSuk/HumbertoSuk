@@ -20,6 +20,15 @@
 
 <br clear="both">
 
+🌐 Portafolio (Aun sin elaborar):
+
+<div align="center">
+
+[![🌐 Portafolio](https://img.shields.io/badge/-humbertosuk.dev-6E40C9?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://humbertosuk.dev)
+
+</div>
+
+
 ## 🎲 Fun Facts
 
 - 💅 Siempre programo mejor con música
@@ -93,8 +102,12 @@
 ## 💌 ¿Colaboramos?
 
 📫 **Correo:** humbertoxd25@gmail.com  
-🌐 **Portafolio (Aun sin elaborar):** [https://humbertosuk.dev](https://humbertosuk.dev)  
 
+### Mis plataformas Freelancers:
+
+[![Fiverr](https://img.shields.io/badge/-Fiverr_-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://es.fiverr.com/sellers/julysuk/)
+
+[![Malt](https://img.shields.io/badge/-Malt_Perfil-FF5C57?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.malt.es/profile/juliohumbertolopezortega)
 
 # 💻 Tech Stack
 
