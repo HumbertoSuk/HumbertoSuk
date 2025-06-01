@@ -105,7 +105,7 @@
 
 ### Mis plataformas Freelancers:
 
-[![Fiverr](https://img.shields.io/badge/-Fiverr_-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://es.fiverr.com/sellers/julysuk/)
+[![Fiverr](https://img.shields.io/badge/-Fiverr_-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://es.fiverr.com/s/2KLo16X)
 
 [![Malt](https://img.shields.io/badge/-Malt_Perfil-FF5C57?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.malt.es/profile/juliohumbertolopezortega)
 
