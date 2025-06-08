@@ -24,7 +24,7 @@
 
 <div align="center">
 
-[![🌐 Portafolio](https://img.shields.io/badge/-humbertosuk.dev-6E40C9?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://humbertosuk.dev)
+[![🌐 Portafolio](https://img.shields.io/badge/-humbertosuk.dev-6E40C9?style=for-the-badge&logo=about-dot-me&logoColor=white)]([https://humbertosuk.dev](https://soma-portal-react-git-main-julysuks-projects.vercel.app/))
 
 </div>
 
